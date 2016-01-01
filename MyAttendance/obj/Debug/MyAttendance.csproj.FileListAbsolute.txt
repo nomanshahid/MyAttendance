@@ -1,0 +1,31 @@
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.exe.config
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.exe
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.pdb
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.csprojResolveAssemblyReference.cache
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Form1.resources
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Password.resources
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Properties.Resources.resources
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.SplashPage.resources
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.csproj.GenerateResource.Cache
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.exe
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.pdb
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Logout.resources
+C:\Users\Noman\Desktop\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.ChangePass.resources
+C:\Users\Noman\Documents\School\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.exe.config
+C:\Users\Noman\Documents\School\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.exe
+C:\Users\Noman\Documents\School\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.pdb
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.exe.config
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.exe
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.pdb
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\Data.mdf
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\Data_log.ldf
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.exe
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\bin\Debug\MyAttendance.pdb
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.csprojResolveAssemblyReference.cache
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.ChangePass.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Form1.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Logout.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Password.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.Properties.Resources.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.SplashPage.resources
+C:\Users\Noman\Documents\School\Grade 12\Computer Science\Noman Shahid - Summative\MyAttendance\MyAttendance\obj\Debug\MyAttendance.csproj.GenerateResource.Cache
